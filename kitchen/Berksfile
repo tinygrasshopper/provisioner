@@ -1,3 +1,5 @@
 site :opscode
 
+cookbook 'apache2', :path => 'site-cookbooks/apache2'
 cookbook 'nginx'
+
