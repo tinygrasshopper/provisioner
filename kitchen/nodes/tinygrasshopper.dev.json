@@ -1,1 +1,1 @@
-{"run_list":["recipe[apache2]", "recipe[nginx]"]}
+{"run_list":["role[app_server]"]}
